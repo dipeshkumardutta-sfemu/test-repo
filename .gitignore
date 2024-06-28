@@ -3,7 +3,7 @@
 *.iws
 *.iml
 *.ipr
-
+.java-version
 # Maven
 target/
 pom.xml.tag
