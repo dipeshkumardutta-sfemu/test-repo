@@ -26,6 +26,26 @@ exchange-docs/
 .DS_Store
 Thumbs.db
 
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.nfs*
+
 # Compiled class files
 *.class
 
