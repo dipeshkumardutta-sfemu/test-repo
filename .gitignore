@@ -43,3 +43,6 @@ generated-test-sources/
 *.bak
 *.tmp
 
+.java-version
+src/main/resources/.DS_Store
+src/main/resources/api/.DS_Store

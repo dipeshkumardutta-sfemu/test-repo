@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mule.mulechain</groupId>
 	<artifactId>mulechain-ai-connector</artifactId>
-	<version>0.3.0</version>
+	<version>0.4.6</version>
 	<packaging>mule-extension</packaging>
 	<name>MuleSoft AI Chain Connector - Mule 4</name>
 
@@ -239,6 +239,12 @@
 			<artifactId>assertions</artifactId>
 			<version>1.2.1</version>
 			<scope>test</scope>
+		</dependency>
+		<!-- okhttp library for http requests -->
+		<dependency>
+			<groupId>com.squareup.okhttp3</groupId>
+			<artifactId>okhttp</artifactId>
+			<version>4.12.0</version>
 		</dependency>
 	</dependencies>
 	<repositories>
